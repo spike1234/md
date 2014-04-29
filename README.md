@@ -1,7 +1,14 @@
-md
+markdown tests
 --------------------
 
-markdown test
+una tabella!
+
+| Arma                | DannoDa  | DannoA  | Note      |
+| ------------------- | -------- | ------- | --------- |
+| Spada corta         |      1   |     6   | 1D6       |    
+| Spadone             |      1   |     8   | 1D8       |
+| Spadone ***Figo***  |      2   |    12   | 1D10+1    |
+
 
 
 some code:
